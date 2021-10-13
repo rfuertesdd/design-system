@@ -2,7 +2,7 @@
   "name": "design-system",
   "description": "Salesforce Lightning Design System",
   "engines": {
-    "node": "14.x",
+    "node": "12.x",
     "npm": "7.x"
   },
 
